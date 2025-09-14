@@ -377,7 +377,7 @@
                         <span>👇 Click to open</span>
                     </div>
                     <div class="letter-content">
-                        <p>Hi Palangga,</p>
+                        <p>Hi Bebe,</p>
                         <p>Every day with you feels like a beautiful dream that I never want to wake up from. Your smile brightens my darkest days, and your laughter is my favorite melody.</p>
                         <p>I cherish every moment we spend together, from our silly inside jokes to our deep conversations under the stars. You've shown me what true happiness feels like, and I'm forever grateful to have you in my life.</p>
                         <p>No matter where life takes us, always remember that my heart belongs to you.</p>
