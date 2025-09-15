@@ -361,7 +361,7 @@
                 <h2>Flowers for you</h2>
                 <div class="gallery">
                     <div class="gallery-item">
-                        <img src="https://www.telegraph.co.uk/multimedia/archive/03397/Close_up_daisy_Ala_3397447d.jpg?imwidth=680" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 380px; height: 307px; margin: 0px; width: 215px;" alt="Top 10 facts about daisies" jsname="kn3ccd">
+                        <img src="https://cdn.britannica.com/68/123068-050-00390894/Crown-daisy.jpg" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 1600px; height: 202px; margin: 0px; width: 303px;" alt="Daisy | Description, Types, Examples, &amp; Facts | Britannica" jsname="kn3ccd">
                     </div>
                     <div class="gallery-item">
                         <img src="https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/73632299-5dde-4ded-805a-88a7dcb4b5e4.png" alt="Beautiful pink tulips in a glass vase with morning dew">
