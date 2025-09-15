@@ -14,13 +14,13 @@
         
         body {
             font-family: 'Montserrat', sans-serif;
-            background: linear-gradient(135deg, #ffd1dc, #ffb7c5);
+            background: linear-gradient(135deg, #a8e6cf, #dcedc1); /* Mint + Light Green */
             min-height: 100vh;
             display: flex;
             flex-direction: column;
             align-items: center;
             overflow-x: hidden;
-            color: #8a1c4a;
+            color: #2e7d32; /* Dark green for text */
         }
         
         /* Password Modal */
@@ -30,7 +30,7 @@
             left: 0;
             width: 100%;
             height: 100%;
-            background: rgba(255, 182, 193, 0.95);
+            background: rgba(200, 230, 201, 0.95); /* soft green tint */
             display: flex;
             flex-direction: column;
             justify-content: center;
@@ -54,13 +54,13 @@
             font-family: 'Dancing Script', cursive;
             font-size: 32px;
             margin-bottom: 20px;
-            color: #d81b60;
+            color: #388e3c; /* medium green */
         }
         
         .password-input {
             width: 100%;
             padding: 12px;
-            border: 2px solid #ffb7c5;
+            border: 2px solid #a8e6cf;
             border-radius: 10px;
             margin-bottom: 15px;
             font-size: 16px;
@@ -70,11 +70,11 @@
         }
         
         .password-input:focus {
-            border-color: #d81b60;
+            border-color: #388e3c;
         }
         
         .submit-btn {
-            background: #d81b60;
+            background: #388e3c;
             color: white;
             border: none;
             padding: 12px 25px;
@@ -85,7 +85,7 @@
         }
         
         .submit-btn:hover {
-            background: #b71550;
+            background: #2e7d32;
             transform: scale(1.05);
         }
         
@@ -96,7 +96,7 @@
             left: 0;
             width: 100%;
             height: 100%;
-            background: linear-gradient(135deg, #ffd1dc, #ffb7c5);
+            background: linear-gradient(135deg, #a8e6cf, #dcedc1);
             display: flex;
             flex-direction: column;
             justify-content: center;
@@ -108,7 +108,7 @@
         .welcome-message {
             font-family: 'Dancing Script', cursive;
             font-size: 48px;
-            color: #d81b60;
+            color: #388e3c;
             text-align: center;
             animation: pulse 2s infinite, float 3s ease-in-out infinite;
             text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
@@ -138,7 +138,7 @@
             cursor: pointer;
             font-size: 16px;
             font-weight: 600;
-            color: #d81b60;
+            color: #388e3c;
             transition: all 0.3s ease;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
             display: flex;
@@ -153,7 +153,7 @@
         
         .tab.active {
             background: white;
-            color: #d81b60;
+            color: #2e7d32;
             box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
         }
         
@@ -179,40 +179,23 @@
         /* Love Letter Tab */
         .letter {
             padding: 20px;
-            background: #fff5f7;
+            background: #f1f8f6; /* soft mint */
             border-radius: 15px;
-            border: 2px dashed #ffb7c5;
+            border: 2px dashed #a8e6cf;
             margin-bottom: 20px;
             cursor: pointer;
             transition: all 0.3s ease;
         }
         
-        .letter-header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-bottom: 15px;
-        }
-        
         .letter h3 {
             font-family: 'Dancing Script', cursive;
             font-size: 28px;
-            color: #d81b60;
-        }
-        
-        .letter-content {
-            max-height: 0;
-            overflow: hidden;
-            transition: max-height 0.5s ease;
-        }
-        
-        .letter.expanded .letter-content {
-            max-height: 500px;
+            color: #388e3c;
         }
         
         /* Music Tab */
         .song {
-            background: #f8e8ee;
+            background: #e8f5e9;
             padding: 15px;
             border-radius: 10px;
             margin-bottom: 15px;
@@ -223,51 +206,16 @@
         
         .song-icon {
             font-size: 24px;
-            color: #d81b60;
-        }
-        
-        .song-info h4 {
-            font-size: 18px;
-            margin-bottom: 5px;
-        }
-        
-        .song-info p {
-            color: #888;
-            font-size: 14px;
+            color: #388e3c;
         }
         
         /* Notes Tab */
         .note {
-            background: #fce4ec;
+            background: #f1f8e9;
             padding: 15px;
             border-radius: 10px;
             margin-bottom: 15px;
-            border-left: 4px solid #d81b60;
-        }
-        
-        /* Gallery Tab */
-        .gallery {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-            gap: 15px;
-        }
-        
-        .gallery-item {
-            border-radius: 10px;
-            overflow: hidden;
-            height: 200px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-            transition: transform 0.3s ease;
-        }
-        
-        .gallery-item:hover {
-            transform: scale(1.05);
-        }
-        
-        .gallery-item img {
-            width: 100%;
-            height: 100%;
-            object-fit: cover;
+            border-left: 4px solid #388e3c;
         }
         
         /* Decorative Elements */
@@ -279,7 +227,7 @@
         }
         
         .heart {
-            color: #d81b60;
+            color: #2e7d32;
             font-size: 24px;
             animation: float 6s ease-in-out infinite;
         }
@@ -311,27 +259,6 @@
             0% { transform: translateY(0px); }
             50% { transform: translateY(-10px); }
             100% { transform: translateY(0px); }
-        }
-        
-        /* Responsive Design */
-        @media (max-width: 768px) {
-            .welcome-message {
-                font-size: 36px;
-            }
-            
-            .tabs {
-                flex-direction: column;
-                align-items: center;
-            }
-            
-            .tab {
-                width: 100%;
-                justify-content: center;
-            }
-            
-            .gallery {
-                grid-template-columns: repeat(2, 1fr);
-            }
         }
     </style>
 </head>
