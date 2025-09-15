@@ -274,7 +274,7 @@
     
     <!-- Welcome Screen -->
     <div class="welcome-screen" id="welcomeScreen">
-        <h1 class="welcome-message">Welcome my love, enjoy your stay</h1>
+        <h1 class="welcome-message">Happy 1st Monthsary Bebe</h1>
     </div>
     
     <!-- Main Content -->
@@ -301,15 +301,14 @@
                 <div class="letter" id="loveLetter">
                     <div class="letter-header">
                         <h3>A Letter For You</h3>
-                        <span>👇 Click to open</span>
                     </div>
                     <div class="letter-content">
                         <p>My Bebe,</p>
-                        <p>Every day with you feels like a beautiful dream that I never want to wake up from. Your smile brightens my darkest days, and your laughter is my favorite melody.</p>
-                        <p>I cherish every moment we spend together, from our silly inside jokes to our deep conversations under the stars. You've shown me what true happiness feels like, and I'm forever grateful to have you in my life.</p>
+                        <p>1st of all siyempre happy monthsary bebe while typing this imagine lang da face ko ga smile and ga blush hihihi just like sang gin accept moko wholeheartedly before paman ta mag enter sa relationship and you really know how grateful i am nga nakilala taka mayo lang gid nag first move ka sa taimi hays kundi may gwapa gwapaaaa gid ko ya nga miga subong.</p>
+                        <p>Thankyou everyday for making me smile kung ang plants gani ang main source ya para mag grow is sunlight diba while ako ang source of happiness ko ikaw ey HAHAHHAHA nagbanat pa.Looking forward to more monthsaries and annivs siyempre with you,wala ko physical things mahatag subong pero i'll make sure mabawi ko da nextyear magkadto ko da.Iloveyousomuchhhhhh,relationship is not always perfect pero bisan maginano mabalik ko gyapon simo and di ko maigine self ko sa iban.   </p>
                         <p>No matter where life takes us, always remember that my heart belongs to you.</p>
                         <p>Forever yours,</p>
-                        <p>Me</p>
+                        <p>Bebeeee moooo</p>
                     </div>
                 </div>
             </div>
@@ -344,13 +343,16 @@
             <div class="tab-content" id="notes">
                 <h2>Some reminders</h2>
                 <div class="note">
-                    <p>Take care always</p>
+                    <p>Always drnk your vitamins and water</p>
                 </div>
                 <div class="note">
-                    <p>Eat on time</p>
+                    <p>Put towel if ever basa ang likod</p>
                 </div>
                 <div class="note">
-                    <p>You're mine.. always</p>
+                    <p>Dala na payong di magpadungol HAHAHAHHAA</p>
+                </div>
+                 <div class="note">
+                    <p>Lastly akon kalang always</p>
                 </div>
             </div>
             
