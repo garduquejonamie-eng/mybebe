@@ -1,4 +1,9 @@
- <title>For My Love</title>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>For My Love</title>
     <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Montserrat:wght@400;500;600&display=swap" rel="stylesheet">
     <style>
         * {
@@ -372,7 +377,7 @@
                         <span>👇 Click to open</span>
                     </div>
                     <div class="letter-content">
-                        <p>Hi Bebe,</p>
+                        <p>My love,</p>
                         <p>Every day with you feels like a beautiful dream that I never want to wake up from. Your smile brightens my darkest days, and your laughter is my favorite melody.</p>
                         <p>I cherish every moment we spend together, from our silly inside jokes to our deep conversations under the stars. You've shown me what true happiness feels like, and I'm forever grateful to have you in my life.</p>
                         <p>No matter where life takes us, always remember that my heart belongs to you.</p>
@@ -459,7 +464,7 @@
             const submitPassword = document.getElementById('submitPassword');
             
             submitPassword.addEventListener('click', function() {
-                if (passwordInput.value.toLowerCase() === 'bebe') {
+                if (passwordInput.value.toLowerCase() === 'babycakes') {
                     passwordModal.style.opacity = '0';
                     setTimeout(() => {
                         passwordModal.style.display = 'none';
@@ -546,3 +551,4 @@
         });
     </script>
 </body>
+</html>
