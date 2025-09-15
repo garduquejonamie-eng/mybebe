@@ -305,7 +305,7 @@
                     <div class="letter-content">
                         <p>My Bebe,</p>
                         <p>1st of all siyempre happy monthsary bebe while typing this imagine lang da face ko ga smile and ga blush hihihi just like sang gin accept moko wholeheartedly before paman ta mag enter sa relationship and you really know how grateful i am nga nakilala taka mayo lang gid nag first move ka sa taimi hays kundi may gwapa gwapaaaa gid ko ya nga miga subong.</p>
-                        <p>Thankyou everyday for making me smile kung ang plants gani ang main source ya para mag grow is sunlight diba while ako ang source of happiness ko ikaw ey HAHAHHAHA nagbanat pa.Looking forward to more monthsaries and annivs siyempre with you,wala ko physical things mahatag subong pero i'll make sure mabawi ko da nextyear magkadto ko da.Iloveyousomuchhhhhh,relationship is not always perfect pero bisan maginano mabalik ko gyapon simo and di ko maigine self ko sa iban.   </p>
+                        <p>Thankyou everyday for making me smile kung ang plants gani ang main source ya para mag grow is sunlight diba while ako ang source of happiness ko ikaw ey HAHAHHAHA nagbanat pa.Looking forward to more monthsaries and annivs siyempre with you,wala ko physical things or gifts mahatag subong pero i'll make sure mabawi ko da nextyear magkadto ko da.Iloveyousomuchhhhhh,relationship is not always perfect pero bisan maginano mabalik ko gyapon simo and di ko maigine self ko sa iban.   </p>
                         <p>No matter where life takes us, always remember that my heart belongs to you.</p>
                         <p>Forever yours,</p>
                         <p>Bebeeee moooo</p>
@@ -343,7 +343,7 @@
             <div class="tab-content" id="notes">
                 <h2>Some reminders</h2>
                 <div class="note">
-                    <p>Always drnk your vitamins and water</p>
+                    <p>Always take your vitamins and drink water</p>
                 </div>
                 <div class="note">
                     <p>Put towel if ever basa ang likod</p>
@@ -361,7 +361,7 @@
                 <h2>Flowers for you</h2>
                 <div class="gallery">
                     <div class="gallery-item">
-                        <img src="https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/1eaad721-3375-4d97-a5fa-cbf8a87d60b8.png" alt="Bouquet of delicate pink roses with soft green leaves">
+                        <img src="https://www.telegraph.co.uk/multimedia/archive/03397/Close_up_daisy_Ala_3397447d.jpg?imwidth=680" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 380px; height: 307px; margin: 0px; width: 215px;" alt="Top 10 facts about daisies" jsname="kn3ccd">
                     </div>
                     <div class="gallery-item">
                         <img src="https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/73632299-5dde-4ded-805a-88a7dcb4b5e4.png" alt="Beautiful pink tulips in a glass vase with morning dew">
