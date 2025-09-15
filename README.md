@@ -304,7 +304,7 @@
                         <span>👇 Click to open</span>
                     </div>
                     <div class="letter-content">
-                        <p>My love,</p>
+                        <p>My Bebe,</p>
                         <p>Every day with you feels like a beautiful dream that I never want to wake up from. Your smile brightens my darkest days, and your laughter is my favorite melody.</p>
                         <p>I cherish every moment we spend together, from our silly inside jokes to our deep conversations under the stars. You've shown me what true happiness feels like, and I'm forever grateful to have you in my life.</p>
                         <p>No matter where life takes us, always remember that my heart belongs to you.</p>
@@ -320,15 +320,22 @@
                 <div class="song">
                     <div class="song-icon">🎵</div>
                     <div class="song-info">
-                        <h4>Hiwaga</h4>
-                        <p>by Tatin DC</p>
+                        <h4>The Only Exception</h4>
+                        <p>by Paramore</p>
                     </div>
                 </div>
                 <div class="song">
                     <div class="song-icon">🎵</div>
                     <div class="song-info">
-                        <h4>Wish</h4>
-                        <p>by 16</p>
+                        <h4>Daises </h4>
+                        <p>by Justine Bieber</p>
+                    </div>
+                </div>
+                <div class="song">
+                    <div class="song-icon">🎵</div>
+                    <div class="song-info">
+                        <h4>Best Part</h4>
+                        <p>by Daniel Caesar</p>
                     </div>
                 </div>
             </div>
@@ -391,7 +398,7 @@
             const submitPassword = document.getElementById('submitPassword');
             
             submitPassword.addEventListener('click', function() {
-                if (passwordInput.value.toLowerCase() === 'babycakes') {
+                if (passwordInput.value.toLowerCase() === 'bebe') {
                     passwordModal.style.opacity = '0';
                     setTimeout(() => {
                         passwordModal.style.display = 'none';
